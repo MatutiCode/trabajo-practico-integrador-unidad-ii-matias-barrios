@@ -1,0 +1,31 @@
+nav img {
+  width: 150px;
+}
+h3 {
+  text-align: center;
+}
+#Pcontent {
+  font-family: sans-serif;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+aside img {
+  width: 95px;
+}
+.cards {
+  display: flex;
+  gap: 10px;
+}
+#section-car {
+  padding: 50px;
+}
+footer {
+  background-color: #262a2d;
+  color: #807c7c;
+  margin: 0;
+  padding: 10px;
+  font-size: 15px;
+  border-top: 1px solid #52585b;
+}
