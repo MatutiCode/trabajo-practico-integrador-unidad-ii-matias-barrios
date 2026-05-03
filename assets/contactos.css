@@ -1,3 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #1b3f4b;
+}
+.titulo-header {
+  font-size: 75px;
+  color: #fff;
+  margin: 0;
+  justify-content: center;
+  margin: 0 auto;
+}
 nav img {
   width: 150px;
 }
@@ -21,4 +35,12 @@ h3 {
   font-family: sans-serif !important;
   color: #068587 !important;
   font-size: 18px !important;
+}
+footer {
+  background-color: #262a2d;
+  color: #807c7c;
+  margin: 0;
+  padding: 10px;
+  font-size: 15px;
+  border-top: 1px solid #52585b;
 }
