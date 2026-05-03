@@ -1,3 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #1b3f4b;
+}
+.titulo-header {
+  font-size: 75px;
+  color: #fff;
+  margin: 0;
+  justify-content: center;
+  margin: 0 auto;
+}
 nav img {
   width: 150px;
 }
@@ -16,10 +30,17 @@ aside img {
 }
 .cards {
   display: flex;
+  justify-content: center;
   gap: 10px;
 }
 #section-car {
   padding: 50px;
+}
+#section-car p {
+  font-size: 18px;
+}
+#section-car a {
+  color: white;
 }
 footer {
   background-color: #262a2d;
